@@ -1,0 +1,7 @@
+{
+  "name": "HealthMate AI",
+  "description": "Personalized patient education with an animated avatar guide.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
